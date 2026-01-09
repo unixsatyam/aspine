@@ -1,7 +1,6 @@
 export default function AIProductTeaser() {
   return (
     <section className="py-32 px-6 relative overflow-hidden bg-[#0a0a0f]">
-      {/* Remove purple gradient, keep minimal effects */}
       <div className="absolute inset-0 grid-bg opacity-20"></div>
       
       {/* Animated Rings */}
